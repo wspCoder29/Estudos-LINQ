@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.exe
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.deps.json
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.runtimeconfig.json
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.dll
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\bin\Debug\net5.0\ExercLinqTest.pdb
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.dll
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\refint\ExercLinqTest.dll
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.pdb
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ExercLinqTest.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\ExercLinqTest\ExercLinqTest\obj\Debug\net5.0\ref\ExercLinqTest.dll
