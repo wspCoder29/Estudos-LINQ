@@ -17,9 +17,8 @@ namespace Test70
 
             int qtd = 0;
 
-            qtd = li.Where(x=> x <=2).Count();
+            qtd = li.Where(x=> x <= 2).Count();
             
-
             Console.WriteLine(qtd);
 
             Console.WriteLine(string.Join(" ", li));

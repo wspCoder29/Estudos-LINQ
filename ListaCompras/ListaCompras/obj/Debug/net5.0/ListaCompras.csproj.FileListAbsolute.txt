@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.exe
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.deps.json
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.runtimeconfig.json
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.dll
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\bin\Debug\net5.0\ListaCompras.pdb
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.dll
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\refint\ListaCompras.dll
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.pdb
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ListaCompras.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\ListaCompras\ListaCompras\obj\Debug\net5.0\ref\ListaCompras.dll
