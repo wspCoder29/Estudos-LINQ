@@ -1,0 +1,32 @@
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.exe
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.deps.json
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.runtimeconfig.json
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.dll
+C:\Users\Leandro\source\repos\Teste80\Teste80\bin\Debug\net5.0\Teste80.pdb
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.dll
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\refint\Teste80.dll
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.pdb
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\Teste80.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\Teste80\Teste80\obj\Debug\net5.0\ref\Teste80.dll
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.exe
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.deps.json
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.runtimeconfig.json
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.dll
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\bin\Debug\net5.0\Teste80.pdb
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.dll
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\refint\Teste80.dll
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.pdb
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\Teste80.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\GIT UP\ContaElementosRepetidos\Teste80\obj\Debug\net5.0\ref\Teste80.dll
